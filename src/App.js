@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Our Reviews</h1>
+      <h1>Our Reviews in detail</h1>
       <p>Total number of reviews: {review2.length}</p>
       <hr />
       <br />
